@@ -193,3 +193,8 @@ ul {
   text-align: center;
   margin-top: 3rem;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
